@@ -1,0 +1,4 @@
+C:\Users\Sandy Achmiz\Documents\ToMM_alpha\NUICursorTools\bin\Release\NUICursorTools.dll
+C:\Users\Sandy Achmiz\Documents\ToMM_alpha\NUICursorTools\bin\Release\NUICursorTools.pdb
+C:\Users\Sandy Achmiz\Documents\ToMM_alpha\NUICursorTools\obj\Release\NUICursorTools.dll
+C:\Users\Sandy Achmiz\Documents\ToMM_alpha\NUICursorTools\obj\Release\NUICursorTools.pdb
