@@ -43,6 +43,7 @@ namespace NUICursorTools
 
 		// METHODS
 
+		// 
 		public PointF shape(PointF rawPoint)
 		{
 			previousPoint = currentPoint;
@@ -75,6 +76,10 @@ namespace NUICursorTools
 			return new Point((int)currentPoint.X, (int)currentPoint.Y);
 		}
 
+		// Adds the provided transform to the list of transforms.
+		// All added transforms will be applied to raw points passed to the shaper,
+		// in the order specified by the mode property. (See mode property for explanation 
+		// of available order of operations modes.)
 		public void addTransform(NUICursorTransform t)
 		{
 			t.shaper = this;

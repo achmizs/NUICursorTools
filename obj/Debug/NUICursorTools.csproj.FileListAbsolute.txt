@@ -3,6 +3,10 @@ E:\Users\Sandy Achmiz\Documents\ToMM_alpha\NUICursorTools\bin\Debug\NUICursorToo
 E:\Users\Sandy Achmiz\Documents\ToMM_alpha\NUICursorTools\obj\Debug\ResolveAssemblyReference.cache
 E:\Users\Sandy Achmiz\Documents\ToMM_alpha\NUICursorTools\obj\Debug\NUICursorTools.dll
 E:\Users\Sandy Achmiz\Documents\ToMM_alpha\NUICursorTools\obj\Debug\NUICursorTools.pdb
+C:\Users\sachmiz\Documents\ToMM_alpha\NUICursorTools\bin\Debug\NUICursorTools.dll
+C:\Users\sachmiz\Documents\ToMM_alpha\NUICursorTools\bin\Debug\NUICursorTools.pdb
+C:\Users\sachmiz\Documents\ToMM_alpha\NUICursorTools\obj\Debug\NUICursorTools.dll
+C:\Users\sachmiz\Documents\ToMM_alpha\NUICursorTools\obj\Debug\NUICursorTools.pdb
 C:\Users\Sandy Achmiz\Documents\ToMM_alpha\NUICursorTools\bin\Debug\NUICursorTools.dll
 C:\Users\Sandy Achmiz\Documents\ToMM_alpha\NUICursorTools\bin\Debug\NUICursorTools.pdb
 C:\Users\Sandy Achmiz\Documents\ToMM_alpha\NUICursorTools\obj\Debug\NUICursorTools.dll
