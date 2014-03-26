@@ -11,3 +11,7 @@ C:\Users\Sandy Achmiz\Documents\ToMM_alpha\NUICursorTools\bin\Debug\NUICursorToo
 C:\Users\Sandy Achmiz\Documents\ToMM_alpha\NUICursorTools\bin\Debug\NUICursorTools.pdb
 C:\Users\Sandy Achmiz\Documents\ToMM_alpha\NUICursorTools\obj\Debug\NUICursorTools.dll
 C:\Users\Sandy Achmiz\Documents\ToMM_alpha\NUICursorTools\obj\Debug\NUICursorTools.pdb
+C:\Users\obormot\Documents\Visual Studio 2010\Projects\NITETest1\NUICursorTools\bin\Debug\NUICursorTools.dll
+C:\Users\obormot\Documents\Visual Studio 2010\Projects\NITETest1\NUICursorTools\bin\Debug\NUICursorTools.pdb
+C:\Users\obormot\Documents\Visual Studio 2010\Projects\NITETest1\NUICursorTools\obj\Debug\NUICursorTools.dll
+C:\Users\obormot\Documents\Visual Studio 2010\Projects\NITETest1\NUICursorTools\obj\Debug\NUICursorTools.pdb
