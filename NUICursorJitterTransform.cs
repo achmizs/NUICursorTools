@@ -24,7 +24,7 @@ namespace NUICursorTools
 			jitterThreshold = 20;
 			//jitterThreshold = (float) Math.Sqrt(shaper.currentSpace.Width * shaper.currentSpace.Width + shaper.currentSpace.Height * shaper.currentSpace.Height);
 
-			_sampleDepth = 50;
+			_sampleDepth = 3;
 			vectorSmoothTransform.smoothDepth = sampleDepth;
 			lastSeveralDirections = new Queue<PointF>();
 			curvatureThreshold = (float) (Math.PI * 0.0);
